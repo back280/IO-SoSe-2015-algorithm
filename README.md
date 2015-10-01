@@ -68,11 +68,11 @@ In the next step we had to use Processing to translate our analog studies into a
 1. Java or
 2. Python
 
-Our tutor advised us to use python especially with regard to the following more Python focused projects. Although I had no experience neither with java nor with Python, I decided proceed with python instead of using the more common and better web documented Java.
+Our tutor advised us to use python especially with regard to the following more Python focused projects. Although I had no experience neither with java nor with Python, I decided proceed with Python instead of using the more common and better web documented Java.
 
 #### First code attempt
 
-So my fist code experiments, written in java, looked like these,
+So my fist code experiments, written in Java, looked like these.
 
     void setup() {
       size(600, 600); //define canavas size
@@ -105,7 +105,7 @@ So my fist code experiments, written in java, looked like these,
       saveFrame("line-######.png"); //create image in png format
       }
 
-and had these visual results.
+#### Visual results.
 
 ![](images/2015_09_13_Ergebnis_Bilder_erste_Anweisung.png)
 
@@ -264,7 +264,7 @@ As a subtask we were asked to create a certain application for our visual output
 ## Installation  
 
 For installation simply download the file on your hard
-disk. [Link to code](https://github.com/back280/IO-SoSe-2015-algorythm/tree/master/code/sketch_150921_final)
+disk. [Link to code](https://github.com/back280/IO-SoSe-2015-algorithm/tree/master/code/sketch_150921_final)
 
 ## Usage  
 
